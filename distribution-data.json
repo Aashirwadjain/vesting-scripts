@@ -1,0 +1,287 @@
+[
+    {
+        "account": "0xd9c66fc2b01bb6d72e8884d2aa1e2dda2995ecd6",
+        "claimedAmount": "1724331050228310502283104",
+        "estimatedAmount": "1234573059360730593204896"
+    },
+    {
+        "account": "0x83f0a8ebcaebedec334e57499a78e1eb080a0444",
+        "claimedAmount": "466775494672754946727549",
+        "estimatedAmount": "519525875190258751768451"
+    },
+    {
+        "account": "0x5b33f09f3c4a9393ff4eb83ac3ee7fd6fa296053",
+        "claimedAmount": "295048876681189751395230",
+        "estimatedAmount": "283581342496892433244770"
+    },
+    {
+        "account": "0x0398261489d24dcc6d87c5754212bb857d7b09ae",
+        "claimedAmount": "0",
+        "estimatedAmount": "325479452054794519104000"
+    },
+    {
+        "account": "0xb76f95bb816c8aedb525d7c82eb50835eea5e416",
+        "claimedAmount": "58376281075596144089286",
+        "estimatedAmount": "40253855910705221094714"
+    },
+    {
+        "account": "0xd2eb6fd47811734e06a15b062239bed75c414aa4",
+        "claimedAmount": "386207154439117199391171",
+        "estimatedAmount": "219663722273211564800829"
+    },
+    {
+        "account": "0xa50f89381301decb11f1918586f98c5f2077e3ca",
+        "claimedAmount": "563548389142567224758997",
+        "estimatedAmount": "299465309487569755593003"
+    },
+    {
+        "account": "0x150be62edddd543452545e502bcaf6800bcaf2d6",
+        "claimedAmount": "137200152207001522070015",
+        "estimatedAmount": "355950532724505327177985"
+    },
+    {
+        "account": "0x7529ea854069b2671a947c3d405327f5db0ce225",
+        "claimedAmount": "206019634703196347031963",
+        "estimatedAmount": "385761187214611867400037"
+    },
+    {
+        "account": "0x1074045b6ee28f705c75fe8fff21a15af76d4d13",
+        "claimedAmount": "618148515981735159817351",
+        "estimatedAmount": "318837785388127848310649"
+    },
+    {
+        "account": "0x1b75c6dc2c2cff9e6eaf54c5d72b3447740f1e76",
+        "claimedAmount": "389172298325722983257229",
+        "estimatedAmount": "424526331811263314502771"
+    },
+    {
+        "account": "0x2b485b86c843332a2abfd553d5fe7485cee0348c",
+        "claimedAmount": "133061136478944698122779",
+        "estimatedAmount": "360089548452562151125221"
+    },
+    {
+        "account": "0x2c3b69c7bb725ec5feeced00e9b2a1a6a027bf9d",
+        "claimedAmount": "0",
+        "estimatedAmount": "0"
+    },
+    {
+        "account": "0xc1f562c56b4cf3b0627174649637fc6a3843b4ea",
+        "claimedAmount": "49004084221207508878741",
+        "estimatedAmount": "49626052765093856305259"
+    },
+    {
+        "account": "0x2ea91d600364d77053ca0161424298be6b0379aa",
+        "claimedAmount": "274287924911212582445458",
+        "estimatedAmount": "218862760020294266802542"
+    },
+    {
+        "account": "0x31b1e645c21b2e568eb3f74a6307b03fadb648be",
+        "claimedAmount": "325945319634703196347031",
+        "estimatedAmount": "216520433789954335492969"
+    },
+    {
+        "account": "0xdb74ecbdb65ab15d2d68356fe64444caec383c45",
+        "claimedAmount": "262550608828006088280060",
+        "estimatedAmount": "230600076103500760967940"
+    },
+    {
+        "account": "0x55dc465570093bb55fca231806a0104cea5ee7d6",
+        "claimedAmount": "27476636225266362252663",
+        "estimatedAmount": "46495966514459657747337"
+    },
+    {
+        "account": "0xc08de9d8834b3ee012d684db239bf7868c818327",
+        "claimedAmount": "28048198883815322171486",
+        "estimatedAmount": "958253170979198376324514"
+    },
+    {
+        "account": "0x923f574fe41dda91d0260f1a155076bc8b1508e1",
+        "claimedAmount": "0",
+        "estimatedAmount": "493150684931506849248000"
+    },
+    {
+        "account": "0x44abbece7d43267f92e3861fbc4ce61269da678c",
+        "claimedAmount": "251410578386605783866056",
+        "estimatedAmount": "241740106544901065381944"
+    },
+    {
+        "account": "0x431afa20fb57c208e50cd0616e17845d6bd887f7",
+        "claimedAmount": "0",
+        "estimatedAmount": "246575342465753420736000"
+    },
+    {
+        "account": "0x0d9902306441692fb0de59af6c967ae0c65d6ba8",
+        "claimedAmount": "0",
+        "estimatedAmount": "123287671232876710368000"
+    },
+    {
+        "account": "0xd7b4242b86d6ee9fc50782a357e95707af17d8c5",
+        "claimedAmount": "0",
+        "estimatedAmount": "246575342465753420736000"
+    },
+    {
+        "account": "0xffc95714864c3060b16d22dcd7a83403a58326e4",
+        "claimedAmount": "0",
+        "estimatedAmount": "123287671232876710368000"
+    },
+    {
+        "account": "0x1cbbcee386c72577ae791a4244551ef49f84c45b",
+        "claimedAmount": "0",
+        "estimatedAmount": "123287671232876710368000"
+    },
+    {
+        "account": "0x06b85131c117d5895553139c7aad97c3d1a7988c",
+        "claimedAmount": "457729965910451547437846",
+        "estimatedAmount": "448797129979959410610154"
+    },
+    {
+        "account": "0xb791904d2aa9337bf5ac99b95bfabd71917a643c",
+        "claimedAmount": "0",
+        "estimatedAmount": "369863013698630131104000"
+    },
+    {
+        "account": "0x309d3522f7c3a4fe6ac6bb8a2f3916d24c643df7",
+        "claimedAmount": "24015039954337899543378",
+        "estimatedAmount": "552354823059360723176622"
+    },
+    {
+        "account": "0x8279fb3d46b46ef73373bdf65ce15ab8bd60d7db",
+        "claimedAmount": "0",
+        "estimatedAmount": "123287671232876710368000"
+    },
+    {
+        "account": "0x408505ec4bb812b9b649a653390a7b683cea3d54",
+        "claimedAmount": "0",
+        "estimatedAmount": "493150684931506849248000"
+    },
+    {
+        "account": "0x6f87bef18baf73dc1d4cf0cc3355e92d2898fd39",
+        "claimedAmount": "0",
+        "estimatedAmount": "493150684931506849248000"
+    },
+    {
+        "account": "0xd87f8ed679d3c3176c0ac1c34b92f6ba1f78e8d6",
+        "claimedAmount": "0",
+        "estimatedAmount": "123287671232876710368000"
+    },
+    {
+        "account": "0x69cb2ce712a6ff3f4479b144784505bdaeb23f0f",
+        "claimedAmount": "0",
+        "estimatedAmount": "154109589041095886016000"
+    },
+    {
+        "account": "0x5087c6d8b1ca2200b29e6ce481b48da2fd06e0b5",
+        "claimedAmount": "0",
+        "estimatedAmount": "308219178082191779808000"
+    },
+    {
+        "account": "0x309d3522f7c3a4fe6ac6bb8a2f3916d24c643df7",
+        "claimedAmount": "24015039954337899543378",
+        "estimatedAmount": "552354823059360723176622"
+    },
+    {
+        "account": "0xd5531e0cd49476c8959e5dfb4487dad09dc4ba92",
+        "claimedAmount": "0",
+        "estimatedAmount": "770547945205479445632000"
+    },
+    {
+        "account": "0x2bc2390c826ae5a86fb0e2cb88eb15344a6f3183",
+        "claimedAmount": "0",
+        "estimatedAmount": "2568493150684931500992000"
+    },
+    {
+        "account": "0x505ffa6194f6e443b86f2028b2a97a588c17b962",
+        "claimedAmount": "0",
+        "estimatedAmount": "308219178082191779808000"
+    },
+    {
+        "account": "0x7d4a9ed68c56f23925d814699cefaa7affe49080",
+        "claimedAmount": "86287298642820903094875",
+        "estimatedAmount": "67822290398274982921125"
+    },
+    {
+        "account": "0x28ab1d256047d860613688081f563165cc312853",
+        "claimedAmount": "151474584601725012683916",
+        "estimatedAmount": "156744593480466767124084"
+    },
+    {
+        "account": "0xa6ed26749cb54591291b4550a82f15ff64ae98d9",
+        "claimedAmount": "157965261922881785895483",
+        "estimatedAmount": "150253916159309993912517"
+    },
+    {
+        "account": "0xf5960b58f873598674daeda98d56724c3ae6e5da",
+        "claimedAmount": "0",
+        "estimatedAmount": "277397260273972596384000"
+    },
+    {
+        "account": "0xc9209188cc9f3bbb9997c95b48a1d1349131ee84",
+        "claimedAmount": "0",
+        "estimatedAmount": "13869863013698622432000"
+    },
+    {
+        "account": "0x25330f55c6e8c3242b180f0f150762b9435f3aed",
+        "claimedAmount": "0",
+        "estimatedAmount": "1541095890410953728000"
+    },
+    {
+        "account": "0x86d94a6dc215991127c36f9420f30c44b5d8cbad",
+        "claimedAmount": "0",
+        "estimatedAmount": "3082191780821915232000"
+    },
+    {
+        "account": "0xc927e121c29037136adab44539c95d922940e2df",
+        "claimedAmount": "0",
+        "estimatedAmount": "1541095890410953728000"
+    },
+    {
+        "account": "0x1a3f00a013670becaf3e51b5db8c0a530b5bf08f",
+        "claimedAmount": "42236650177574835109081",
+        "estimatedAmount": "111872938863521050906919"
+    },
+    {
+        "account": "0x835c0e46cb45180e9ec9b31a3e3f13b2f486adfb",
+        "claimedAmount": "6691864060121765601217",
+        "estimatedAmount": "8719094843987818334783"
+    },
+    {
+        "account": "0x5248f49d9278533fc4abcafb84366f9af2f8a742",
+        "claimedAmount": "0",
+        "estimatedAmount": "77054794520547943008000"
+    },
+    {
+        "account": "0x3865671ead37172a1f8718c0a2fa375fb78e5719",
+        "claimedAmount": "0",
+        "estimatedAmount": "154109589041095886016000"
+    },
+    {
+        "account": "0xe28e83e14f58015a87da6e243794063c2123e78b",
+        "claimedAmount": "357052257737189244038",
+        "estimatedAmount": "307862125824454590563962"
+    },
+    {
+        "account": "0x005ec612e764eb5dac801321c2d48a95ebd0d852",
+        "claimedAmount": "0",
+        "estimatedAmount": "46232876712328759584000"
+    },
+    {
+        "account": "0xd81fa0603cbbf7fdedd3a449c3a278af00f70b8e",
+        "claimedAmount": "0",
+        "estimatedAmount": "0"
+    },
+    {
+        "account": "0x5a84f9b2945ee902de416d08af6d380c7c58ad65",
+        "claimedAmount": "405922754946727549467272",
+        "estimatedAmount": "210515601217656010148728"
+    },
+    {
+        "account": "0x59184a5f27de55b84dbed584a7eb930f8b7152ae",
+        "claimedAmount": "0",
+        "estimatedAmount": "154109589041095886016000"
+    },
+    {
+        "account": "0x0c477275713ba9f5c6d30acb1741979c16766146",
+        "claimedAmount": "0",
+        "estimatedAmount": "123287671232876710368000"
+    }
+]
